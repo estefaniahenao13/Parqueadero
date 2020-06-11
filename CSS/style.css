@@ -1,0 +1,77 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.logotipo{
+    font-size: 6rem;
+    color: yellow;
+    
+}
+
+.logo{
+   display: flex;
+   justify-content: center;
+   margin-top: 2rem;
+
+}
+
+.vehiculo{
+    width: 50%;
+    margin-left: 21rem;
+    padding: 2rem;
+}
+
+.lista{
+    list-style: none;
+    margin: 2px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+.menu{
+    margin: 0;
+}
+
+.ingresov{
+    width: 8%;
+    background-color: rgb(236, 236, 17);
+    margin-bottom: 13px;
+    border-radius: 2px;    
+}
+
+.salidav{
+    width: 9%;
+    background-color:rgb(236, 236, 17);
+    border-radius: 2px;
+}
+
+.tabla{
+    margin-top: 25px;
+    width: 87%;
+    margin-left: 5rem;
+}
+
+.generar{
+    width: 16%;
+    margin-left: 32rem;
+    margin-top: 3rem;
+    
+}
+
+#generar{
+    margin: 12px 93px;
+    background-color:rgb(236, 236, 17);
+}
+
+.inputs{
+    margin: 4px;
+}
+
+
